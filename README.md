@@ -1,4 +1,4 @@
-# Multi-PDF RAG Chatbot (Generative AI Project)
+# Multi-PDF RAG Chatbot Generative AI Project
 
 ## 🚀 Overview
 
