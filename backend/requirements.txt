@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pypdf
+python-dotenv
+pinecone-client
+pydantic==2.7.4
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-openai==0.1.23
+langchain-pinecone
